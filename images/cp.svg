@@ -1,0 +1,9 @@
+<svg id="グループ_2129" data-name="グループ 2129" xmlns="http://www.w3.org/2000/svg" width="500" height="80" viewBox="0 0 500 80">
+  <path id="box" d="M40,0H460a40,40,0,0,1,0,80H40A40,40,0,0,1,40,0Z" fill="#30f7ae"/>
+  <g id="txt" transform="translate(-528.213 -681.066)">
+    <text id="キャンペーンに申し込む" transform="translate(665.213 729.066)" fill="#fff" font-size="22" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">キャンペーンに申し込む</tspan></text>
+    <g id="icon-arrow" transform="translate(649 716.148)">
+      <path id="arrow" d="M1.8,1.8,7.139,7.139,1.8,12.5" transform="translate(-1.8 -1.8)" fill="none"/>
+    </g>
+  </g>
+</svg>
